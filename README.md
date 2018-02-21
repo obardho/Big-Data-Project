@@ -4,5 +4,7 @@ This is the project for Big Data certification.
 
 # About the Data Set
 
-** - DataSet Source:** GitHub 
-**- Downloaded from:** Google Big Query
+**- DataSet Source:** 
+GitHub 
+**- Downloaded from:** 
+Google Big Query
